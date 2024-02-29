@@ -1,0 +1,43 @@
+.bienvenida {
+    background-color: orangered;
+    /* text-align: center; */
+}
+
+#tituloprincipal {
+    color: whitesmoke;
+    text-align: center;
+    margin: 1 0;
+}
+
+#subtitulo {
+    color: whitesmoke;
+    text-align: left;
+}
+
+#mensaje {
+    color: whitesmoke;
+    text-align: right;
+}
+
+#fondo {
+    background-color: gray;
+}
+
+.cuadro-principal {
+    background-color: whitesmoke;
+    max-width: 500px;
+    align-self: center;
+}
+
+#piedepagina {
+    background-color: orangered;
+    color: whitesmoke;
+}
+
+#madeby {
+    text-align: left;
+}
+
+#copyright {
+    text-align: right;
+}
